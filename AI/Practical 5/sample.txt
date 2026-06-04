@@ -1,0 +1,3 @@
+Python is powerful. 
+File handling is important. 
+We are learning Practical 05. 
