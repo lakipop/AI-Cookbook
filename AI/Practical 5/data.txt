@@ -1,0 +1,2 @@
+This is data for the question 3 
+file methods practice
