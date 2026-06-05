@@ -91,7 +91,7 @@ print("\n--- BFS Shortest Path ---")
 if shortest_path:
     print("Path found:", shortest_path)
 else:
-    print("No path found.")
+    print("No path found.") 
 
 
 # %% [markdown]
